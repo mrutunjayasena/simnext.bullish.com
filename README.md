@@ -1,1 +1,1 @@
-# sn-cdata.ext-api.exchange.bullish.com
+simnext.bullish.com
